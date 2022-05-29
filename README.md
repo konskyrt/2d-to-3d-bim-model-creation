@@ -1,7 +1,9 @@
 # 2d-to-3d-bim-model-tool
 Software needed: Revit
 
-This dynamo script can generate a 3D Column with a specific geometry, out of an input of a 2D Drawing.
-The scipt is particularly usefull when a lot of 3D columns is needed to be created, on top of a 2D import in Revit
+This tool was created in order to convert automatically 2D Drawings to 3D BIM Models.
+This is developed with Dynamo and the Python nodes were customized so that it can generate 3D Columns with specific geometries, out of an input of a 2D Drawing.
+
+
 
 
